@@ -206,12 +206,13 @@ FASTではプロダクトバックログの代わりに利用するのが推奨�
 
 # 進捗の表現（オンライン版）
 
-miroやMuralを利用する場合、
-
+miroやMuralを利用する場合、付箋を色分けして進捗を表す。
+- この例では、黄色：ToDo, オレンジ：In Progress, 青：Done
+- 子が In Progress の場合、親も In Progress になる
 
 <div style="text-align: center;">
 
-![h:400](images/tree0.png)
+![h:350](images/tree0.png)
 
 </div>
 
