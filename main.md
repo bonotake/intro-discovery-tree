@@ -246,7 +246,7 @@ YouTube ["Quick Discovery Tree Overview"](https://youtu.be/niIW3FsClVY?si=sfzVVn
 
 <div style="font-size: 1.2em; text-align: center;">
 
-WIPは角にカギカッコを書き、Doneは対角線に斜線を引く
+**WIPは角にカギカッコを書き、Doneは対角線に斜線を引く**
 
 </div>
 
