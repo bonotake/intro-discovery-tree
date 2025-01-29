@@ -206,13 +206,63 @@ FASTではプロダクトバックログの代わりに利用するのが推奨�
 
 # 進捗の表現（オンライン版）
 
+<div style="font-size: 0.8em; text-align: center;">
+
 miroやMuralを利用する場合、付箋を色分けして進捗を表す。
-- この例では、黄色：ToDo, オレンジ：In Progress, 青：Done
-- 子が In Progress の場合、親も In Progress になる
+（この例では、黄色：ToDo, オレンジ：WIP, 青：Done）
+子が WIP の場合、親も WIP になる
+
+</div>
 
 <div style="text-align: center;">
 
 ![h:350](images/tree0.png)
+
+</div>
+
+
+---
+
+<div style="position: absolute; top: 500px; background-color: #f0f0f0;">
+
+# <span style="color:rgb(0, 139, 160);">　進捗の表現（オフライン版）　</span>
+
+</div>
+
+![bg](images/physical.png)
+
+<div class="paper-reference">
+
+YouTube ["Quick Discovery Tree Overview"](https://youtu.be/niIW3FsClVY?si=sfzVVnktrt5-25HB) より
+
+</div>
+
+
+---
+
+# 進捗の表現（オフライン版）
+
+![bg opacity:0.4](images/physical.png)
+
+<div style="font-size: 1.2em; text-align: center;">
+
+WIPは角にカギカッコを書き、Doneは対角線に斜線を引く
+
+</div>
+
+<div class="columns columns-1-1">
+
+<div style="text-align: center;">
+
+![w:450](images/wip.png)
+
+</div>
+
+<div style="text-align: center;">
+
+![w:450](images/done.png)
+
+</div>
 
 </div>
 
